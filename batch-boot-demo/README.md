@@ -1,4 +1,4 @@
-File-to-db sample for spring-boot-starter-batch-web
+dsfFile-to-db sample for spring-boot-starter-batch-web
 =============================
 This sample demonstrates the usage of an external database. 
 
